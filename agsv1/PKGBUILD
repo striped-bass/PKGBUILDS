@@ -12,7 +12,7 @@
 pkgname=agsv1
 _pkgname=ags
 pkgver=1.9.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Aylurs's Gtk Shell (AGS), An eww inspired gtk widget system."
 arch=('x86_64')
 url="https://github.com/Aylur/ags"
